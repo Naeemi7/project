@@ -1,0 +1,28 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "an example of creating a project using html css and bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naeemi7/project.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "and",
+    "bootstrap"
+  ],
+  "author": "Abdulwase Naeemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naeemi7/project/issues"
+  },
+  "homepage": "https://github.com/Naeemi7/project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
